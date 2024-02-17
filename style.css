@@ -1,0 +1,16 @@
+.parrafo {
+  width: 46em;
+  text-align: justify ;
+  }
+.shadowbox {
+  width: 44em;
+  border: 5px solid #62BFD5   ;
+  box-shadow: 8px 8px 5px #5D7687 ;
+  padding: 8px 12px;
+  background-color: #5E8EB4 ;
+  color: #F6EDED ;
+}
+#mapa {
+  width: 49%;
+  height: 450px;
+}
